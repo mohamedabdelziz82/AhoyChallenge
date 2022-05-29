@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AhoyTask</string>
+    <string name="title_activity_base">Weather</string>
+    <string name="lbl_home">Home</string>
+    <string name="lbl_forecast">Forecast</string>
+    <string name="lbl_favourite">Favourite</string>
+    <string name="lbl_settings">Settings</string>
+    <string name="lbl_cancel">Cancel</string>
+    <string name="lbl_temperature">Temperature :</string>
+    <string name="lbl_desc">Description :</string>
+    <string name="lbl_high_temperature">Highest Temperature :</string>
+    <string name="lbl_low_temperature">Lowest Temperature :</string>
+    <string name="lbl_wind">Wind Speed :</string>
+    <string name="lbl_pressure">Pressure :</string>
+    <string name="lbl_humidity">Humidity :</string>
+    <string name="lbl_sunset">Sunset :</string>
+    <string name="lbl_sunrise">Sunrise :</string>
+    <string name="lbl_celsius">Celsius</string>
+    <string name="lbl_fahrenheit">Fahrenheit</string>
+    <string name="lbl_search_cities">Search for other cities</string>
+    <string name="lbl_location_permission_content_description">Location icon</string>
+    <string name="lbl_location_permission_description">Please allow the app to access your location.</string>
+    <string name="lbl_location_permission_continue">OK</string>
+    <string name="lbl_select_temp_type">Select Temperature type</string>
+    <string name="mgs_location_permission_not_available">The app needs your permission to access your current location to display the weather for your location.</string>
+    <string name="mgs_saved_to_favourite">Saved to Favourite</string>
+
+</resources>
