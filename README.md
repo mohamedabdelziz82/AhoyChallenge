@@ -6,5 +6,5 @@ The following diagram shows the structure of this project with 3 layers:
 - Presentation
 - Domain
 - Data
-  
-![image](https://github.com/mohamedabdelziz82/AhoyChallenge/blob/main/diagram.png?raw=true)
+
+![image](https://github.com/mohamedabdelziz82/AhoyChallenge/blob/master/diagram.png?raw=true)
